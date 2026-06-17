@@ -20,8 +20,8 @@ Each week builds on the previous one — progressing from core Python logic all 
 | Week | Theme | Projects | Status |
 |------|-------|----------|--------|
 | [Week 1](./Week-1/) | Python Logic & Data Management | To-Do List App | ✅ Complete |
-| Week 2 | *(Coming Soon)* | — | 🔒 Locked |
-| Week 3 | *(Coming Soon)* | — | 🔒 Locked |
+| Week 2 | Data Accumulation & Processing | Expense Tracker | ✅ Complete |
+| Week 3 | Security & Library Integration | Password Generator | ✅ Complete |
 | Week 4 | *(Coming Soon)* | — | 🔒 Locked |
 
 ---
@@ -37,8 +37,18 @@ DecodeLabs-Internship/
 │       ├── todo.py                      ← Main application
 │       └── README.md                    ← Project documentation
 │
-├── Week-2/                              ← Coming soon
-├── Week-3/                              ← Coming soon
+├── Week-2/
+│   ├── README.md
+│   └── Project-2-Expense-Tracker/
+│       ├── expense_tracker.py
+│       └── README.md
+│
+├── Week-3/
+│   ├── README.md
+│   └── Project-3-Password-Generator/
+│       ├── password_generator.py
+│       └── README.md
+│
 ├── Week-4/                              ← Coming soon
 │
 └── README.md                            ← This file
