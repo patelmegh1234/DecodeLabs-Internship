@@ -20,9 +20,9 @@ Each week builds on the previous one — progressing from core Python logic all 
 | Week | Theme | Projects | Status |
 |------|-------|----------|--------|
 | [Week 1](./Week-1/) | Python Logic & Data Management | To-Do List App | ✅ Complete |
-| Week 2 | Data Accumulation & Processing | Expense Tracker | ✅ Complete |
-| Week 3 | Security & Library Integration | Password Generator | ✅ Complete |
-| Week 4 | *(Coming Soon)* | — | 🔒 Locked |
+| [Week 2](./Week-2/) | Data Accumulation & Processing | Expense Tracker | ✅ Complete |
+| [Week 3](./Week-3/) | Security & Library Integration | Password Generator | ✅ Complete |
+| [Week 4](./Week-4/) | *(Coming Soon)* | — | 🔒 Locked |
 
 ---
 
